@@ -1,0 +1,77 @@
+.body-background {
+	background: linear-gradient(black, #ffc107 50%, #000000 100%) no-repeat fixed;
+}
+
+.header-container {
+	height: 300px;
+}
+
+.header-text {
+	font-family: Smokum, serif;
+	font-size: 85px;
+	text-shadow: 2px 2px #000000, -2px -2px rgb(0, 0, 0);
+	text-align: center;
+}
+
+.cart-container {
+	width: 100%;
+}
+
+.car-tags {
+	font-family: Smokum, serif;
+	color: #ffc107;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	text-shadow: 3px 3px 10px #000000, -2px -2px 10px #000000;
+}
+
+.cart-tag-price {
+	margin-left: 73px;
+}
+
+.cart-row-price {
+	color: #000000;
+	width: auto;
+	text-shadow: 1px 1px 11px #ffc107, -1px -1px 10px #ffc107;
+	text-align: center;
+	font-family: Aclonica, sans-serif;
+}
+
+.cart-row-name {
+	font-family: 'Aclonica', sans-serif;
+	color: #000000;
+	width: 100px;
+	text-shadow: 1px 1px 11px #ffc107, -1px -1px 10px #ffc107;
+	margin-left: 5px;
+	text-align: center;
+}
+
+.cart-row-quantity {
+	width: 75px;
+	margin: 10px;
+	text-align: center;
+	padding-left: 15px;
+}
+
+.cart-row {
+	margin-top: 15px;
+}
+
+.cart-total {
+	font-family: Aclonica, sans-serif;
+	font-size: 22px;
+	text-shadow: 2px 2px 10px #ffc107, -2px -2px 10px #ffc107;
+	margin-top: 50px;
+}
+
+.cart-row-img {
+	width: 80px;
+	height: 80px;
+	margin: auto;
+}
+
+.btn-purchase {
+	margin-top: 10px;
+	border-color: #000000 !important;
+	font-weight: bold;
+}

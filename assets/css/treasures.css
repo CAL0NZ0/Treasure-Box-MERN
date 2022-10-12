@@ -1,0 +1,41 @@
+body {
+  background: url("https://i.natgeofe.com/n/39f02083-af40-44b1-a32d-b3d869e105f3/88732.jpg") center / cover no-repeat fixed;
+}
+
+.treasures-header-container {
+  height: 300px;
+  text-shadow: 4px 4px 10px #000000, -4px -4px 10px #000000;
+}
+
+.treasures-header {
+  font-family: Smokum, serif;
+  font-size: 65px;
+}
+
+#product-card {
+  width: 200px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.product-name {
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 2px 2px 5px #ffc107, -2px -2px 5px #ffc107;
+  height: 80px;
+}
+
+.product-price {
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 2px 2px 5px #ffc107, -2px -2px 4px #ffc107;
+}
+
+.btn-add {
+  width: 120px;
+  margin-left: 40px;
+  border-style: solid;
+  border-color: #000000!important;
+}
+
